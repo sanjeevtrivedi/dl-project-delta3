@@ -1,3 +1,11 @@
+**/models/**
+**/plots/**
+**/results/**
+**/peft_results**
+**/logs/**
+**/llama*
+**/final_report**
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
