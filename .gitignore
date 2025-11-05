@@ -5,6 +5,14 @@
 **/logs/**
 **/llama*
 **/final_report**
+**/samples/**
+**/hallucinations/**
+**/checkpoints/**
+**/data/**
+**/dataset/**
+**/cache/**
+**/venv/**
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
