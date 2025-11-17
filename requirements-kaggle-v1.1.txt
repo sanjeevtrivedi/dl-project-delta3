@@ -1,0 +1,13 @@
+#### Not Working on Kaggle: requirements-kaggle-v1.1.txt ####
+transformers==4.45.1
+peft @ git+https://github.com/huggingface/peft.git@main
+datasets==2.21.0
+evaluate==0.4.3
+rouge-score==0.1.2
+scikit-learn==1.5.1
+accelerate==1.11.0
+matplotlib==3.9.2
+seaborn==0.13.2
+wandb==0.18.0
+tabulate==0.9.0
+numpy==1.26.4
