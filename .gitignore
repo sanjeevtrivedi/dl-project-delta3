@@ -13,6 +13,8 @@
 **/cache/**
 **/venv/**
 **/outputs/**
+**/assignment/**
+**/finalexam/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
