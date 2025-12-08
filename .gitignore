@@ -13,6 +13,15 @@
 **/cache/**
 **/venv/**
 **/outputs/**
+**/assignment/**
+**/finalexam/**
+**/new-tests/class*
+**/new-tests/summ*
+**/new-tests/eval*
+**/new-tests/train*
+**.png
+**.json
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
