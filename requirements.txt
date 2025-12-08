@@ -16,6 +16,9 @@ numpy==1.26.4
 thinc==8.2.5
 spacy==3.7.5
 notebook==7.2.2
+<<<<<<< HEAD
+sentencepiece==0.1.99
+=======
 ##protobuf added
 protobuf<4.0
 evaluate
@@ -39,3 +42,4 @@ rouge_score
 #  spacy==3.7.5 \
 #  notebook==7.2.2 \
 #  "protobuf<4.0"
+>>>>>>> 146c3eb95d71ea2d919b0b7449e3c1bcee8ca452
